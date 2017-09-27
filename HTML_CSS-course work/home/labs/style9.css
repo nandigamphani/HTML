@@ -1,0 +1,62 @@
+body{
+    background-color:aliceblue;
+}
+h2{
+    text-align: center;
+    color: black;
+    background-color: #B56357;
+    height: 40px;
+    padding: 20px;
+    margin: auto;
+    background-image: url(http://graphicdesignjunction.com/wp-content/uploads/2011/03/background-pattern-design-18.jpg)
+}
+.figure{
+    background-repeat: no-repeat;
+
+}
+.night{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+.airlift {
+    text-align: center;
+    width: 700px;
+    height:900px;
+    background-repeat: no-repeat;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/736x/46/c8/c8/46c8c8fbf93704a8f4dade99ec4d9e0d.jpg);
+   
+
+}
+
+nav {
+	margin: auto;
+	background-color: salmon;
+	padding: 20px;
+	text-align: center;
+}
+
+nav a{
+	color:white;
+	margin-right: 50px;
+}
+p{
+    color: azure;
+    padding: 20px;
+}
+nav a:hover {
+	color: YELLOW;
+}
+figcaption{
+    text-align:center;
+    color: gray;
+    margin: 0px;
+}
+footer{
+    text-align: center;
+    color: azure;
+}
+
+ 

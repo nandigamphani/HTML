@@ -1,0 +1,225 @@
+body
+{
+    background-color: lightpink;
+    font-family: inherit;
+}
+
+.container1{
+    background-image: url('http://www.globalchange.gov/sites/globalchange/files/ocean-reef-fish-noC.jpg');
+     background-repeat: no-repeat;
+    background-size:100% 100%;
+    border-radius: 60px;
+    height: 1700px;
+    margin: 20px 30px 20px 15px;
+    border: 10px ridge red;
+    
+}
+.container2{
+    background-image: url('http://wallpapercave.com/wp/BM9KVpE.jpg');	
+    background-size:100% 100%;
+    border: 10px yellow;
+    border-style:ridge solid groove;	margin:25px;
+    height: 1200px;
+    border-width: 25px;
+    border-top-right-radius: 90px;
+    border-bottom-left-radius: 90px;
+    box-shadow: 10px 10px 5px green;
+			
+}
+
+
+.brief {
+    background-color:#BCED91;
+    color:black;
+    width:750px;
+    border-radius: 70px;
+    text-align: center;	
+    margin: 20px;
+    padding: 15px;
+    margin-left:270px;
+    border-style: dotted;
+    
+}
+
+.box2 { 
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    text-shadow: 2px 2px blue;
+    font-family: fantasy;
+		
+}
+.hlinks {
+    display:inline;
+    margin: 10px;
+
+    }
+
+a {
+    color:white;
+    background-color:red;
+    font-size: 22px;
+    
+    }
+a:hover {
+    color:black; 
+    background-color:blue;
+    font-size: 22px;
+    }
+ 
+ 
+ul{
+    list-style-type: none;
+}
+
+h3 {
+
+    display: inline;
+    color: red;
+    margin-top: 0px;
+    font-size: 15px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ 
+
+.tab1 {
+    margin: 15px;
+    background-color:#FFF1F1;
+    float:right;
+    border-style: outset;
+    border-width: 5px;
+    border-color: brown;
+	text-align: left;
+	color: black;
+	margin: 20px ;
+	font-size: 15px;
+	width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow:-10px -10px 5px 0px purple;
+    
+}
+.im-1{
+  
+    margin-top: 0 px;
+    width: 100px;
+    float: left;
+    border-color:orange;
+    border-width: 5px;
+    border-style: groove;
+    padding: 5px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+
+
+.tab2 {
+     
+  
+    border: 3px solid #73AD21;
+    padding: 10px;
+    background-color:azure;
+    border-style: dotted;
+    border-width:0 px;
+    border-color: black;
+	text-align: left;
+	color: black;
+	margin:auto;
+	font-size: 15px;
+	width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px yellow;
+}
+
+.im-2{
+    margin: 5px;
+    width: 100px;
+    float: right;
+    border-color:steelblue;
+    border-width: 5px;
+    border-style: groove;
+    padding: 5px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+.tab3{
+    margin: auto;
+    padding: 10px;
+    background-color:azure;
+    float: left;
+    border-style: double;
+    border-width:0 px;
+    border-color: black;
+	text-align: left;
+	color: black;
+	margin: 20px ;
+	font-size: 15px;
+	width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: -10px -10px 5px blue;
+}
+.im-3{
+    margin: 5px;
+    width: 100px;
+    float: left;
+    border-color:orange;
+    border-width: 5px;
+    border-style: groove;
+    padding: 5px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+	
+.web{
+    float: inherit;
+    align-content: center;
+    width:400px;
+    height:150px;	
+    color:purple;
+    font-style:italic;
+    background-color: #ccffe6;
+    border-width: 10px;
+    border-color: darkgreen;
+    border-style: groove;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    margin:auto;
+    padding: 10px;
+    box-shadow: 15px 15px 8px yellow;
+    
+}	
+h2{
+    text-align: center;
+    text-shadow: 2px 2px gray;
+    font-size: 25px;
+    color:forestgreen;
+    font-family: sans-serif;
+    
+}
+.web a{
+    background-color:#ccffe6 ;
+    color: purple;
+}
+
+footer{
+    text-align: center;
+    color: white;
+    
+}
+
+
+#font1{color:red;font-family:oblique;}
+#font2{font-family:Lucida Sans Unicode oblique;color:blue;}
+#font3{color:blue;}
+#font4{color:black}
+
+
+
+
+
+	

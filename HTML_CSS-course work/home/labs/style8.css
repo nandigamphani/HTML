@@ -1,0 +1,68 @@
+body {
+    background-color: azure;
+}
+
+ul{
+    background: #F9E79F  ;
+    padding: 20px;
+    margin: 0px;
+    }
+
+h1.veggies{
+    color: white;
+    background-color: #52958B;
+    text-align: center;
+    height: 50px;
+    margin: 0px;
+    padding:0px;  
+     width: 600px;
+}
+
+
+ol{
+    background: #67baca;
+    padding: :0px;
+    margin: 0px;
+}
+h1.fruit{
+    color: white;
+    background-color: #F79B77;
+    text-align: center;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+     width: 600px;
+}
+
+
+ol.food{
+    background: #C39BD3;
+    padding:25px;
+    margin: 0px;
+}
+
+h1.ff{
+    color: white;
+    background-color: #f55449;
+    text-align: center;
+    margin: 0px;
+    height: 50px;
+    width: 600px;
+}
+
+
+dl{
+    background: #dddede;
+    padding: 25px;
+    margin: 0px;
+}
+h1.fs{
+    color: white;
+    background-color: palevioletred;
+    text-align: center;
+    height: 50px;
+    width: 600px;
+    margin:0px;
+    padding: 0px;
+    
+}

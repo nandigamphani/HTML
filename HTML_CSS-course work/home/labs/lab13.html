@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>lab-13</title>
+<link rel="stylesheet" type="text/css" href="style13.css">
+</head>
+<body>
+    <h1>Registration Form</h1>
+    
+<section class="details">
+<form  method="post" action="http://itu.lewebcafe.com/csc525/form.php">
+    
+<label for="name">NAME:</label><input type="text" name="name" id="name" placeholder="Enter your Name" required>
+  <br>
+   
+<label for="address">ADDRESS:</label><input type="text" name="address" id="address"
+  placeholder="Enter your address"><br>
+    
+<label for="email">EMAIL-ID:</label><input type="email" name="Email" id="Email" placeholder="Enter your EmailId"><br>
+    
+<label for="phone">PHONE NUMBER:</label><input type="tel" name="phone" id="phone" maxlength="10" placeholder="Enter your phone number"><br>
+    
+<label for="website">WEBSITE:</label><input type="text" name="websites" id="websites" placeholder="website you want to design" list="website">
+    <datalist id="website">
+  		<option value="google">
+  		<option value="wikipedia">
+  	    <option value="Netflix">
+  	</datalist>
+    <br>
+    
+  <label for="color">FAVOURITE COLOR:</label><input type="color" name="color" id="color"
+  placeholder="Choose your favorite color"><br>
+    
+<label for="calender">CALENDER:</label><input type="date" name="calender" id="calender" placeholder="Enter your Date of Birth"><br>
+    
+<label for="comments">COMMENTS:</label><textarea name="comments" id="comments" rows="8" cols="50">write your comments here
+</textarea>
+  <br>
+    
+    <button type="submit" name="SubmitButton" value="Submit"
+style="background-color:palevioletred; color:white;">Submit Form</button>
+    
+   <button type="reset" name="ResetButton" value="Reset"
+style="background-color:palevioletred; color:white;">Reset Form</button>
+</form>
+    </section>
+</body>
+</html>

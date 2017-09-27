@@ -1,0 +1,19 @@
+#SamsungS7Edge p{
+    background-color:blanchedalmond;
+    color:teal;
+    text-align: justify;  
+
+    }
+
+#SamsungS7Edge h2{
+    text-align: center;
+    font-size: 30px;
+    color:darkslategray;
+
+}
+
+span#Highlight {
+  background-color: red;
+    color: azure;
+}
+

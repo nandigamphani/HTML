@@ -1,0 +1,56 @@
+.intro{
+    align-content: center;
+    font-family: cursive;
+    color:indianred;
+    text-align: justify;
+}
+.image1 {
+    padding: 5px;
+    border: 15px;
+     border-style: solid;
+    border-color: yellow;
+     width: 280px;
+    
+}
+
+.image2{
+    float: right;
+    border: Double Border;
+    border:15px;
+    border-style: double;
+    border-color:rebeccapurple;
+    margin:50px 10px;
+    width: 300px;
+    height: 400px;
+    
+}
+br.c { clear: both; }
+   
+
+body {
+    background-color:oldlace;
+}
+
+h1 { text-align:center; 
+    color: green;}
+
+h3
+{
+
+    font-family: monospace;
+    float:right;
+    font-weight: 200;
+    font-style: oblique;
+    font-size: 15pt;
+    color:gray;
+    font-family: serif;
+}
+
+p{
+    font-family: serif;
+    float:left;
+    font-size: 20px;
+    font-style: italic;
+    color: firebrick;
+    font-family: monospace;
+}

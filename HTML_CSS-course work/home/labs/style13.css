@@ -1,0 +1,36 @@
+body {
+	background-color:whitesmoke;
+    margin-left: 400px;
+
+    }
+h1{
+    margin-left: 180px;
+    color: palevioletred;
+}
+
+.details label {
+    display: block;
+    height: 25px;
+    color: coral;
+
+}
+
+.details input {
+    display: block;
+    width: 600px;
+    height: 25px;
+}
+.details comments {
+	width: 400px;
+	border-radius: 5px;
+	
+}
+.details button {
+	width: 150px;
+	height: 35px;
+	border-radius: 25px;
+	margin: 15px;
+}
+.details button:hover{
+    border: solid 5px black;
+}

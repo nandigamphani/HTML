@@ -1,0 +1,33 @@
+body{
+    background-color:ghostwhite;
+}
+h1{
+    text-align: center;
+    color: darkmagenta;
+}
+
+h2:first-letter  {font-size: 2em;color: red;}
+
+h2{
+     text-align: center;
+}
+
+.firstathlete,.secondathlete{
+    margin: 20px;
+    border: solid;
+    border-color: aquamarine;
+    padding: 20px;
+}
+
+#p
+p:first-of-type::first-line {color: red;
+    font-size: 1.5em; background: lightgrey;}
+
+#li
+li:first-child{color: orangered;}
+li:nth-child(3)  { color: blue; font-weight: bold;}
+li:last-child { font-size: 22px;color: green}
+li:last-of-type { border-bottom: 1px  solid red; }
+
+
+

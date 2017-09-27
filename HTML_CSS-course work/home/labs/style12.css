@@ -1,0 +1,40 @@
+body{
+	background-color: red;
+}
+h1{
+    color: red;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+img{width: 700px;}
+
+.immi {	 
+    background-image: url('http://www.planwallpaper.com/static/images/blurry-lights-background.jpg');
+	width: 900px;
+    height: 1200px;
+	background-color: #ffcccc;
+    border-radius: 300px;
+	text-align: center;
+	color: #555;
+	padding: 50px;
+	margin: 50px auto;
+	font-size: 20px;
+	box-shadow: 10px 10px 10px yellow;
+    background-image: no-repeat;
+
+}
+.column {
+    color: white;
+	column-count:2;
+	background: linear-gradient( 45deg, blue, red  );
+	border-radius: 70px;
+	column-gap:30px;
+    column-rule:medium solid green;
+    padding: 20px;
+	
+}
+
+.head {
+    color: darkseagreen;
+	column-span:all; 
+}
